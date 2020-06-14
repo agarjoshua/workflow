@@ -20,4 +20,4 @@ driver.click()
 # this section opens my vscode workstation and last project
 input('press y to open a new vs window')
 
-subprocess.Popen('C:\\Users\\AGAR\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe')
+subprocess.Popen('C:...\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe')
